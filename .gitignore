@@ -1,0 +1,7 @@
+*.classpath
+*.MF
+*.properties
+*.class
+*.war
+taget/maven-archiver/*
+/target/
