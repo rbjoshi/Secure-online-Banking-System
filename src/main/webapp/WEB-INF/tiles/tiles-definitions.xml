@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+   "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN"
+   "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+
+<tiles-definitions>
+    <definition name="layouts" template="/WEB-INF/views/layout/template.jsp">
+        <put-attribute name="title" value="Devil's Bank" />
+        <put-attribute name="header"
+            value="/WEB-INF/views/layout/header.jsp" />
+        <put-attribute name="body" value="" />
+        <put-attribute name="footer"
+            value="/WEB-INF/views/layout/footer.jsp" />
+    </definition>
+
+    <definition name="/*" extends="layouts">
+        <put-attribute name="title" value="title.jsps.{2}" />
+        <put-attribute name="body" value="/WEB-INF/views/jsps/{1}.jsp" />
+    </definition>
+    
+    <definition name="index" extends="layouts">
+        <put-attribute name="title" value="Devils Bank Home" />
+        <put-attribute name="body" value="/WEB-INF/views/jsps/index.jsp" />
+    </definition>
+    
+</tiles-definitions>

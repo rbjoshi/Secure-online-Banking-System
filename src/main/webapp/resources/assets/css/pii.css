@@ -1,0 +1,18 @@
+.loader {
+	background: black;
+	margin: 0 auto;
+	opacity: 0.2;
+	position: absolute;
+	width: inherit;
+	display:none;
+}
+
+#loading-img  {	
+	margin: 40px 420px;
+}
+
+#info-text  {	
+	font-size: 38px;
+	text-align: center;
+	color: blanchedalmond;
+}

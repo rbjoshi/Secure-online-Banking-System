@@ -1,0 +1,177 @@
+body {
+margin-top: 50px;
+padding: 0;
+background: #787878;
+text-align: justify;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 12px;
+color: #616161;
+}
+body {
+display: block;
+margin: 8px;
+}
+
+#header {
+width: 1000px;
+margin: 0 auto;
+height: 150px;
+background: url("img01.jpg") repeat-x left top;
+}
+user agent stylesheetdiv {
+display: block;
+}
+
+#logo {
+width: 1000px;
+height: 100px;
+margin: 0 auto;
+padding: 0 10px 0 70px;
+background: url("img01.jpg") no-repeat left top;
+}
+user agent stylesheetdiv {
+display: block;
+}
+
+
+logo h1 {
+padding: 25px 0 0 0;
+letter-spacing: -1px;
+text-transform: lowercase;
+font-weight: normal;
+font-size: 3em;
+}
+#logo h1, #logo p {
+float: left;
+margin: 0;
+color: #8C0209;
+}
+h1 {
+font-size: 1.6em;
+font-weight: normal;
+}
+h1, h2, h3 {
+margin-top: 0;
+color: #8C0209;
+}
+user agent stylesheeth1 {
+display: block;
+font-size: 2em;
+-webkit-margin-before: 0.67em;
+-webkit-margin-after: 0.67em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+font-weight: bold;
+}
+
+#logo h4 {
+margin: 0 100px 0 0;
+letter-spacing: -1px;
+font-weight: normal;
+text-align: right;
+font-size: 1.5em;
+}
+h4 {
+color: #000000;
+text-align: right;
+}
+h4 {
+display: block;
+-webkit-margin-before: 1.33em;
+-webkit-margin-after: 1.33em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+font-weight: bold;
+}
+
+#page {
+width: 990px;
+margin: 0 auto;
+padding: 20px 5px;
+background: #FFFFFF;
+}
+
+h3 {
+font-size: 1em;
+}
+h3 {
+margin-top: 0;
+color: #47B224;
+}
+h1, h2, h3 {
+margin-top: 0;
+color: #8C0209;
+}
+h3 {
+display: block;
+font-size: 1.17em;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+font-weight: bold;
+}
+
+
+form {
+display: block;
+margin-top: 0em;
+}
+
+a {
+text-decoration: none;
+color: #8C0209;
+color: -webkit-link;
+text-decoration: underline;
+cursor: auto;
+}
+
+
+#footer {
+width: 960px;
+height: 70px;
+margin: 0 auto;
+padding: 0 20px;
+background: url("img04.jpg") no-repeat left top;
+}
+
+
+#footer p {
+margin: 0;
+padding: 25px 0 0 0;
+text-align: center;
+font-size: smaller;
+}
+p {
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+
+#footer .link {
+float: right;
+}
+
+#logo a {
+margin: 0 100px 20 0;
+border: none;
+text-decoration: none;
+color: #8C0209;
+}
+
+h3 {
+margin-top: 0;
+color: #47B224;
+}
+
+
+
+
+#logo a {
+margin: 0 100px 20 0;
+border: none;
+text-decoration: none;
+color: #8C0209;
+}
