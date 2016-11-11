@@ -10,6 +10,8 @@ Security features:<br/>
 4. SiteKey mechanism<br/>
 5. Spring Security Integration<br/>
 6. Front end and back end validations<br/>
+7. SSH certificate<br/>
+8. binding with HTTPS<br/><br/>
 
 Functionality features:<br/>
 1. Payment<br/>
